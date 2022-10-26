@@ -1,6 +1,7 @@
 # E-LEARN
 This is a web based application developed for Education related based website.
-**Project Link**--
+
+**Project Link**-- https://victorious-ground-0120dae10.2.azurestaticapps.net/
 
 ## Features and Functionalities 😃
 
