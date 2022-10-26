@@ -3,6 +3,8 @@ This is a web based application developed for Education related based website.
 
 **Project Link**-- https://victorious-ground-0120dae10.2.azurestaticapps.net/
 
+**Demo video Url**--https://youtube.com/watch?v=lxPs_zpNjIk&feature=share
+
 ## Features and Functionalities 😃
 
 - Interactive and responsive UI.
