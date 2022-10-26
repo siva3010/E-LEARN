@@ -1,5 +1,6 @@
 # E-LEARN
 This is a web based application developed for Education related based website.
+This web site is hosted on Azure Portal using Static web and web app
 
 **Project Link**-- https://victorious-ground-0120dae10.2.azurestaticapps.net/
 
@@ -10,7 +11,7 @@ This is a web based application developed for Education related based website.
 - Interactive and responsive UI.
 - Has many graphical and visual innovative effects.
 - Have an aesthetically pleasing visual design and architecture.
-- Has collection of many web pages including Home, About Us, Contact, Menu, Education topics and  Education related information etc.
+- Has collection of many web pages including Home, About Us, Contact,Education topics and our Education related information etc.
 - Included the feedback Survey form to increase the scope of improvement.
 
 ## Screenshots
