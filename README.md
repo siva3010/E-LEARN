@@ -21,6 +21,10 @@ Primary Azure Technology :
 Other Azure Technologies : App Service
 
 Problem Statement/Opportunity :
+    It is unusual, to say the least, to think that an entire university experience could fit on a single personal electronic device. For students who have only ever experienced traditional classroom settings, it can be unsettling. A certain amount of passivity is typically expected during lectures, especially when taking notes and paying attention, and there is a limited amount of time for tutor discussion. Online learning necessitates acting quickly, accepting course material in various multimedia formats, and participating in online discussions that can go on forever.
+    
+Project Description :
+    To be able to accept change and benefit from all that e-learning has to offer, it is first and foremost necessary to have an open heart and mind. Second, it's crucial to comprehend the benefits of online education. Then you can take advantage of all the advantages that online learning offers, including flexible scheduling, individualised tutoring, a global contact network, constant access to course materials, and student support. You might start to wonder how you ever learned anything once you begin your online course. We therefore utilise the azuser static web app. This facilitates the student's learning process.
 
 
 Screenshort
