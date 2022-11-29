@@ -7,16 +7,16 @@ This web site is hosted on Azure Portal using Static web and web app
 **Demo video Url**--https://youtube.com/watch?v=lxPs_zpNjIk&feature=share
 
 Web Technologies used : 
-      HTML
-      CSS
-      JS
-      Bootstrap
+      -HTML
+      -CSS
+      -JS
+      -Bootstrap
 
 IDE : VS-Code
 
 Primary Azure Technology :
-       Static Web Apps
-       Web Apps
+       -Static Web Apps
+       -Web Apps
        
 Other Azure Technologies : App Service
 
