@@ -6,19 +6,24 @@ This web site is hosted on Azure Portal using Static web and web app
 
 **Demo video Url**--https://youtube.com/watch?v=lxPs_zpNjIk&feature=share
 
+
 Web Technologies used : 
       HTML,
       CSS,
       JS,
       Bootstrap
 
+
 IDE : VS-Code
+
 
 Primary Azure Technology :
        Static Web Apps,
        Web Apps
        
+       
 Other Azure Technologies : App Service
+
 
 Problem Statement/Opportunity :
     It is unusual, to say the least, to think that an entire university experience could fit on a single personal electronic device. For students who have only ever experienced traditional classroom settings, it can be unsettling. A certain amount of passivity is typically expected during lectures, especially when taking notes and paying attention, and there is a limited amount of time for tutor discussion. Online learning necessitates acting quickly, accepting course material in various multimedia formats, and participating in online discussions that can go on forever.
