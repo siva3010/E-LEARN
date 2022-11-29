@@ -1,4 +1,4 @@
-# E-LEARNING
+# "E-Learning" Website using Microsoft Azure Technologies
 This is a web based application developed for Education related based website.
 This web site is hosted on Azure Portal using Static web and web app
 
