@@ -7,16 +7,16 @@ This web site is hosted on Azure Portal using Static web and web app
 **Demo video Url**--https://youtube.com/watch?v=lxPs_zpNjIk&feature=share
 
 Web Technologies used : 
-      -HTML
-      -CSS
-      -JS
-      -Bootstrap
+      HTML,
+      CSS,
+      JS,
+      Bootstrap
 
 IDE : VS-Code
 
 Primary Azure Technology :
-       -Static Web Apps
-       -Web Apps
+       Static Web Apps,
+       Web Apps
        
 Other Azure Technologies : App Service
 
@@ -27,7 +27,8 @@ Project Description :
     To be able to accept change and benefit from all that e-learning has to offer, it is first and foremost necessary to have an open heart and mind. Second, it's crucial to comprehend the benefits of online education. Then you can take advantage of all the advantages that online learning offers, including flexible scheduling, individualised tutoring, a global contact network, constant access to course materials, and student support. You might start to wonder how you ever learned anything once you begin your online course. We therefore utilise the azuser static web app. This facilitates the student's learning process.
 
 
-Screenshort
+# Screenshort
+
 ###
 ![Screenshot (271)](https://user-images.githubusercontent.com/109328049/198059132-6c1ff2a2-2722-4360-9962-76a38414cd61.png)
 
